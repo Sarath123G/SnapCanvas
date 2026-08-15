@@ -1,0 +1,22 @@
+# Large model files (auto-downloaded at runtime)
+hand_landmarker.task
+*.task
+
+# Old/unused files
+drawing_engine.py
+styles.css
+test_engine.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
